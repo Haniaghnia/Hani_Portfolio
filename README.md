@@ -10,7 +10,7 @@
 * Analyze the performance of each existing product category and how it relates to the company's revenue.
 * Analyzing the performance of existing payment types can provide insight into creating a better strategic partnership with payment service providers.
 
-## [Excel: Dashboard Supermarket shop Sales ](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Analyzing%20eCommerce%20Business%20Performance.md)
+## [Excel: Dashboard Supermarket shop Sales ](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket%20shop%20Sales.md)
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
 
 

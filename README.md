@@ -3,8 +3,8 @@
 ## Following my project in SQL,Python, Tableau: 
 #### *You can take a look my Linkedin : [hani_aghnia](https://www.linkedin.com/in/haniaghnia/)*
 
-
-# [Project 1 : Analyzing eCommerce Business Performance using SQL](https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/SQL/Project/Analyzing%20eCommerce%20Business%20Performance%20with%20SQL.sql)
+# SQL : Analyzing eCommerce Business Performance
+*Review SQL Script*: [HERE](https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/SQL/Project/Analyzing%20eCommerce%20Business%20Performance%20with%20SQL.sql)
 * Performed data preparation and created ERD.
 * Analyzing several metrics related to customer activities such as the number of active customers, the number of new customers, the number of customers who make repeat orders, and also the average number of transactions made by customers every year.
 * Analyze the performance of each existing product category and how it relates to the company's revenue.
@@ -17,9 +17,12 @@ Insight
 2. This may be due to promotions/collaborations with certain debit cards as well as a reduction in promotional methods using vouchers
 
 
+# Excel: Analyzing eCommerce Business Performance
+*See Dashboad Excel*: [HERE] (https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/Excel/Dasboard%20Sales%20Supermarket.xlsx)
+
 
 # [Project 1 : Visualization using Tableau : How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia]
-
+![]
 
 ]
   **SQL and Tableau**. 

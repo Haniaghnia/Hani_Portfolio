@@ -1,6 +1,6 @@
 ## [SQL and Tableau : Analyze Coffee Shop to improving new product]()
-    See on Tableau Public: **[Dashboard]**(https://public.tableau.com/app/profile/hani5828/viz/CoffeeShopStory_16613282033970/CoffeShopDataStory)   
-    Data Manipulation SQL Script: **[HERE]**(https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/Analyze%20Coffee%20Shop%20to%20improving%20new%20product/Data%20Manipulation.sql)
+    See on Tableau Public: **[Dashboard](https://public.tableau.com/app/profile/hani5828/viz/CoffeeShopStory_16613282033970/CoffeShopDataStory)**   
+    Data Manipulation SQL Script: **[HERE](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/Analyze%20Coffee%20Shop%20to%20improving%20new%20product/Data%20Manipulation.sql)**
 
 * How are Coffee Shop sales in April 2019
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/Analyze%20Coffee%20Shop%20to%20improving%20new%20product/Coffee%20Shop%20story%20(1).PNG)

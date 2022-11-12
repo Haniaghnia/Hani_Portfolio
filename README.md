@@ -3,35 +3,24 @@
 ## Following my project in SQL,Python, Tableau: 
 #### *You can take a look my Linkedin : [hani_aghnia](https://www.linkedin.com/in/haniaghnia/)*
 
-# SQL : Analyzing eCommerce Business Performance
-*Review SQL Script*: [HERE](https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/SQL/Project/Analyzing%20eCommerce%20Business%20Performance%20with%20SQL.sql)
+# [SQL : Analyzing eCommerce Business Performance](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/SQL/Project/Analyzing%20eCommerce%20Business%20Performance.md)
+
 * Performed data preparation and created ERD.
 * Analyzing several metrics related to customer activities such as the number of active customers, the number of new customers, the number of customers who make repeat orders, and also the average number of transactions made by customers every year.
 * Analyze the performance of each existing product category and how it relates to the company's revenue.
 * Analyzing the performance of existing payment types can provide insight into creating a better strategic partnership with payment service providers.
 
-![](https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/SQL/Project/Payment.PNG)
-
-Insight
-1. Overall, the preferred payment methods are credit cards, another interesting thing to note here is the significant increase in the use of debit cards, which is more than 100% from 2017 to 2018. On the other hand, the use of vouchers has actually decreased from 2017 to 2018.
-2. This may be due to promotions/collaborations with certain debit cards as well as a reduction in promotional methods using vouchers
+# [Excel: Analyzing eCommerce Business Performance](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Analyzing%20eCommerce%20Business%20Performance.md)
+![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
 
 
-# Excel: Analyzing eCommerce Business Performance
-*See Dashboad Excel*: [HERE] (https://github.com/Haniaghnia/Hani_Portfolio/blob/43c360f5d108201e06cfdb8530f282912ddb46b5/Excel/Dasboard%20Sales%20Supermarket.xlsx)
+# [SQL and Tableau : Analyze Coffee Shop to improving new product]()
+* Analyze Coffee Shop's business development, especially for new products, and how to improve the new products. The data is processed using SQL queries to explore the data, and using Tableau for visualization.
+* There are many ways to perform EDA, one of which is by conducting Univariate, BI variate and multivariate analysis. Furthermore, it is sharpened by sales analysis to    create a Product Drill Down visualization which aims to find out which products have good sales performance, whenever the product is purchased a lot, which product categories are sold the most and at which outlets are the best sales.
+* Customer habits and customer profiles are important factors in determining the improvement strategy for sales. In this section we look at the gender, loyalty, and age range of customers who are more likely to try new products. Monitoring customer behavior to find out when we should recommend new products and to what kind of customers for product offerings.
 
 
-# [Project 1 : Visualization using Tableau : How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia]
-![]
-
-]
-  **SQL and Tableau**. 
-1. Analyze Coffee Shop to improving new product
-2. 
-⋅⋅* Unordered sub-list
-
-
-2. How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia
-
-
-
+# [SQL and Tableau : How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia]()
+* In the shipping industry (courier), the main aspect that can determine the quality of an expedition is whether or not the delivery time is received by the customer. Factors that affect delivery time need to be analyzed periodically.
+* A brief descriptive description is the initial stage carried out to determine the characteristics of the shipping data using the expedition, determine the parameters that have a large correlation and carry out further analysis focused on these variables, in order to improve the quality of the freight forwarding expedition in the future.
+* Using SQL Queries first to pre-process data such as removing outliers, making price rounding calculations, and creating new columns that can be used to help correlation analysis for each variable.

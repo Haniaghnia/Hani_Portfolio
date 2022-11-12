@@ -3,7 +3,7 @@
 Outlier and Changes Dimensions Data SQL Script: [HERE](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia/Outlier%20and%20Changes%20Dimensions%20Data.sql)
 
 * How is the delivery performance of the expedition service? and of the total delivery of goods through expedition services in Indonesia, the majority are not on-time. A total of 59.67% experienced delays. 
-![] (https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia/Shipping(1).PNG)
+![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia/Shipping(1).PNG)
 
 
 * There are 3 variables that have the highest correlation value :

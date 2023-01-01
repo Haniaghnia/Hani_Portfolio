@@ -13,18 +13,21 @@
 ## [Excel: Dashboard Supermarket shop Sales ](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket%20shop%20Sales.md)
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
 
-## [Big data analyst: Created and design dashboard using SQL and Google data Studio]
-
+## [Big Data Analyst: Created and design dashboard using SQL and Google data Studio]
+![](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Google%20Studio/Project%20Big%20data%20Analyst/BDA.md)
 Creation and design of dashboards to provide a quick overview of company performance and help management or companies to be able to make decisions quickly, by providing accurate and up-to-date data, and analyzing data to determine important trends and patterns to display on the dashboard.
 
+## [Data engineering: Credit Card Analysis]
+![](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Power%20BI/DE/Project%20DE.md)
+* Identify business objective factors that cause customer churn, criteria and conditions for customers who have a high risk of failing to pay credit card installments and the most common factors for customers to fail to pay.
+* Data exploration performs datamart design with SQL based on the problems identified in the business objective, the final stage is making visualizations using Power BI to understand and explore data to make it more effective.
 
-## [Business intelligence: Analyze Coffee Shop to improving new product using SQL and Tableau](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/Analyze%20Coffee%20Shop%20to%20improving%20new%20product/Analyze%20Coffee%20Shop%20to%20improving%20new%20product.md)
+## [Business Intelligence: Analyze Coffee Shop to improving new product using SQL and Tableau](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/Analyze%20Coffee%20Shop%20to%20improving%20new%20product/Analyze%20Coffee%20Shop%20to%20improving%20new%20product.md)
 * Analyze Coffee Shop's business development, especially for new products, and how to improve the new products. The data is processed using SQL queries to explore the data, and using Tableau for visualization.
 * There are many ways to perform EDA, one of which is by conducting Univariate, BI variate and multivariate analysis. Furthermore, it is sharpened by sales analysis to    create a Product Drill Down visualization which aims to find out which products have good sales performance, whenever the product is purchased a lot, which product categories are sold the most and at which outlets are the best sales.
 * Customer habits and customer profiles are important factors in determining the improvement strategy for sales. In this section we look at the gender, loyalty, and age range of customers who are more likely to try new products. Monitoring customer behavior to find out when we should recommend new products and to what kind of customers for product offerings.
 
-
-## [Business intelligence: How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia using SQL and Tableau](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia.md)
+## [Business Intelligence: How to Optimize Performance from Non-Delayed into Super On-Time Process for Shipping Courier in Indonesia using SQL and Tableau](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Tableau/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia/How%20to%20Optimize%20Performance%20from%20Non-Delayed%20into%20Super%20On-Time%20Process%20for%20Shipping%20Courier%20in%20Indonesia.md)
 * In the shipping industry (courier), the main aspect that can determine the quality of an expedition is whether or not the delivery time is received by the customer. Factors that affect delivery time need to be analyzed periodically.
 * A brief descriptive description is the initial stage carried out to determine the characteristics of the shipping data using the expedition, determine the parameters that have a large correlation and carry out further analysis focused on these variables, in order to improve the quality of the freight forwarding expedition in the future.
 * Using SQL Queries first to pre-process data such as removing outliers, making price rounding calculations, and creating new columns that can be used to help correlation analysis for each variable.

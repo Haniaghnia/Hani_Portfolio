@@ -1,6 +1,6 @@
 # **Portfolio Project**
 
-## Following my project in SQL,Python, Tableau, Google Data Studio and Power BI: 
+## Following my project in SQL, Tableau, Google Data Studio, Power BI and Python: 
 #### *You can take a look my Linkedin : [hani_aghnia](https://www.linkedin.com/in/haniaghnia/)*
 
 ## [SQL : Analyzing eCommerce Business Performance](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/SQL/Project/Analyzing%20eCommerce%20Business%20Performance.md)

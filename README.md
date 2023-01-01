@@ -13,8 +13,7 @@
 ## [Excel: Dashboard Supermarket shop Sales ](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket%20shop%20Sales.md)
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
 
-## [Big Data Analyst: Created and design dashboard using SQL and Google data Studio]
-(https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Google%20Studio/Project%20Big%20data%20Analyst/BDA.md)
+## [Big Data Analyst: Created and design dashboard using SQL and Google data Studio](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Google%20Studio/Project%20Big%20data%20Analyst/BDA.md)
 Creation and design of dashboards to provide a quick overview of company performance and help management or companies to be able to make decisions quickly, by providing accurate and up-to-date data, and analyzing data to determine important trends and patterns to display on the dashboard.
 
 ## [Data engineering: Credit Card Analysis](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Power%20BI/DE/Project%20DE.md)

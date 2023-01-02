@@ -31,8 +31,8 @@ Creation and design of dashboards to provide a quick overview of company perform
 * Using SQL Queries first to pre-process data such as removing outliers, making price rounding calculations, and creating new columns that can be used to help correlation analysis for each variable.
 
 ## [Machine learning project : Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/fe5d48c5e28943cb09a93521d0e13f2b78d66c10/Data%20Science/ML/Credit%20Score%20Card%20Model/README.md)
-* Perform data cleaning, and visualization for business insights.
+* Perform data cleaning and visualization for business insights.
 * Scaling and Transformation feature using One Hot Encoding for all categorical feature 
-* Build a models with machine learning algorithms , In this model used Random Forest algorithm 
+* Build a model with machine learning algorithms , In this model used Random Forest algorithm 
 * To measure model performance used two metrics of credit risk are AUC and KS.
 

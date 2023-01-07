@@ -30,7 +30,7 @@ Creation and design of dashboards to provide a quick overview of company perform
 * A brief descriptive description is the initial stage carried out to determine the characteristics of the shipping data using the expedition, determine the parameters that have a large correlation and carry out further analysis focused on these variables, in order to improve the quality of the freight forwarding expedition in the future.
 * Using SQL Queries first to pre-process data such as removing outliers, making price rounding calculations, and creating new columns that can be used to help correlation analysis for each variable.
 
-## [Machine learning project : Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/fe5d48c5e28943cb09a93521d0e13f2b78d66c10/Data%20Science/ML/Credit%20Score%20Card%20Model/README.md)
+## [Machine learning project : Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/tree/main/Data%20Science/ML/Credit%20Score%20Card%20Model)
 * Perform data cleaning and visualization for business insights.
 * Scaling and Transformation feature using One Hot Encoding for all categorical feature 
 * Build a model with machine learning algorithms , In this model used Random Forest algorithm 

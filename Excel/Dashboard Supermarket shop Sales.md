@@ -1,5 +1,6 @@
 # Dashboard Supermarket shop sales 
 Dashboards contains the most important KPI’s and for report automation.
+
 Dashboards below using advanced excel, pivot, and slicer pivot. Focusing on sales and profit performance of the product and region.
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
 

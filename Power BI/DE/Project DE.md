@@ -40,6 +40,5 @@ After cleaning the data, the dataset will be used to do the analysis process. In
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/dafa719edb6d061a70fde0c5815a0fbd0a1460c5/Power%20BI/DE/DE.PNG)
 
 #### Step 6 : Act 
-### Actions
 1.	One of the factors that determine whether a customer will continue to make a loan or not is monthly income and age.
 2.	With the results of the company's insight, it can carry out auto screening, with conditions when customers who register have an income of less than $40, and at 44-57 years old then, we can enter into a strong potential customer profile failed to pay.

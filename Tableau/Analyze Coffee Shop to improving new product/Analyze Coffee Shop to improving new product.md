@@ -59,8 +59,9 @@ After cleaning the data, the dataset will be used to do the analysis process. In
 Food and Beverage products are the mainstay products with the largest total sales at each outlet
 
 3. Performance of new products and how is the customer profile?
-⋅⋅⋅* Ethiopia (154 million) is the best-selling new product at the moment, its sales can compete with existing coffee products.
-* However, when viewed from the product category, Tea has a larger total sales of new products contributed by Spicy Eye Opener Chai (102 million) and Peppermint (100 million).
+* Ethiopia (154 million) is the best-selling new product at the moment, its sales can compete with existing coffee products.
+* However, when viewed from the product category, Tea has a larger total sales of new products contributed by Spicy Eye Opener Chai 
+(102 million) and Peppermint (100 million).
 * Customer profiles with ages between 25-35 years have a greater likelihood of trying new products
 * The largest percentage who try new products are 1-year loyalty customers.
 

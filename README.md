@@ -11,10 +11,12 @@
 * Analyzing the performance of existing payment types can provide insight into creating a better strategic partnership with payment service providers.
 
 ## [Excel: Dashboard Supermarket shop Sales ]
-* Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.
-* Dashboards below using advanced excel, pivot, and slicer pivot. Focusing on sales and profit performance of the product and region.
 (https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket%20shop%20Sales.md)
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket.PNG)
+
+* Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.
+* Dashboards below using advanced excel, pivot, and slicer pivot. Focusing on sales and profit performance of the product and region.
+
 
 ## [Big Data Analyst: Created and design dashboard using SQL and Google data Studio](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Google%20Studio/Project%20Big%20data%20Analyst/BDA.md)
 Creation and design of dashboards to provide a quick overview of company performance and help manage companies to be able to make decisions quickly, by providing accurate and up-to-date data, and analyzing data to determine important trends and patterns to display on the dashboard.

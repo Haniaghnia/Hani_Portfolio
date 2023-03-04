@@ -7,10 +7,10 @@
 
 #### Step 1 : Ask
 ##### 1.1 Introduction 
-⋅⋅⋅(One of the risks that credit card financing companies experience is having problems with customers who are unable or unwilling to pay their credit card installments. This can lead to high levels of non-performing loans (NPLs), which can reduce a company's profits and increase the risk of loss. In this case how to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default. As data scientist maximizes data to predict the payment ability of their consumers, thus ensuring customers who are able to make repayments are not rejected when applying for a loan and reject loan applications with consumers who have a high risk of default.)
+One of the risks that credit card financing companies experience is having problems with customers who are unable or unwilling to pay their credit card installments. This can lead to high levels of non-performing loans (NPLs), which can reduce a company's profits and increase the risk of loss. In this case how to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default. As data scientist maximizes data to predict the payment ability of their consumers, thus ensuring customers who are able to make repayments are not rejected when applying for a loan and reject loan applications with consumers who have a high risk of default.
 
 ##### 1.2 Business Task
-How to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default.
+  How to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default.
 
 ##### 1.3 Business Objective
 1.	Build, run, and evaluate the machine-learning model. Using random forest algorithm for modeling to predict lending company risk prediction. And 
@@ -27,23 +27,23 @@ evaluate Model Performance using AUC and KS.
 
 #### Step 2 : Prepare
 ##### 2.1 Dataset Used
-The data is publicly from IDX 
+  The data is publicly from IDX 
 
 #### Step 3 : Process
-To start processing data, use python as one of the data analytics tools, to import datasets, and carry out cleaning and organizing processes. 
+  To start processing data, use python as one of the data analytics tools, to import datasets, and carry out cleaning and organizing processes. 
 
 #### Step 4 : Analyze
-Analysis using python see for details. 
+  Analysis using python see for details. 
 [Click here](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/Lending%20company/Credit%20Loans%20.ipynb)
 
 #### Step 5 : Share 
-In credit risk modeling using Random Forest Algorithm, the performance metrics AUC (Area Under the Curve) and KS (Kolmogorov-Smirnov) are commonly used to evaluate the accuracy of the model.
+  In credit risk modeling using Random Forest Algorithm, the performance metrics AUC (Area Under the Curve) and KS (Kolmogorov-Smirnov) are commonly used to evaluate the accuracy of the model.
 * An AUC of 0.857 means that the model has a good ability to distinguish between good and bad borrowers. An AUC of 1.0 would represent a perfect model, while an AUC of 0.5 would indicate a completely random model.
 * The KS statistic measures the maximum difference between the cumulative distribution functions of good and bad borrowers. A KS of 0.56 indicates a moderate level of separation between the good and bad borrowers. A higher KS value indicates a better model performance.
 * Overall, an AUC of 0.857 and a KS of 0.56 suggest that the Random Forest model has good predictive power and is able to distinguish between good and bad borrowers to a moderate degree. However, it is important to note that these metrics do not provide a complete picture of model performance and should be interpreted in conjunction with other relevant metrics and business considerations.
 
 #### Step 6 : Act 
-Based on the results of the Lending company's risk prediction using the Random Forest Algorithm model and evaluating the results of AUC = 0.857 and KS = 0.56, the company can take the following steps:
+  Based on the results of the Lending company's risk prediction using the Random Forest Algorithm model and evaluating the results of AUC = 0.857 and KS = 0.56, the company can take the following steps:
 1.	Refine lending criteria: Companies can use models to improve lending criteria by setting more stringent criteria for perceived high-risk borrowers and offering more favorable terms for perceived low-risk borrowers.
 2.	Monitor model performance: Companies should monitor and evaluate model performance to make future adjustments, including re-evaluating relevant features, adjusting model hyperparameters, or updating training data.
 

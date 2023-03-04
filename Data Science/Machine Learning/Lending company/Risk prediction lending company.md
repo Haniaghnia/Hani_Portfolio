@@ -7,7 +7,7 @@
 
 #### Step 1 : Ask
 ##### 1.1 Introduction 
-One of the risks that credit card financing companies experience is having problems with customers who are unable or unwilling to pay their credit card installments. This can lead to high levels of non-performing loans (NPLs), which can reduce a company's profits and increase the risk of loss. In this case how to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default. As data scientist maximizes data to predict the payment ability of their consumers, thus ensuring customers who are able to make repayments are not rejected when applying for a loan and reject loan applications with consumers who have a high risk of default. 
+⋅⋅⋅One of the risks that credit card financing companies experience is having problems with customers who are unable or unwilling to pay their credit card installments. This can lead to high levels of non-performing loans (NPLs), which can reduce a company's profits and increase the risk of loss. In this case how to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default. As data scientist maximizes data to predict the payment ability of their consumers, thus ensuring customers who are able to make repayments are not rejected when applying for a loan and reject loan applications with consumers who have a high risk of default. 
 
 ##### 1.2 Business Task
 How to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default.

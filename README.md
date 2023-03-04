@@ -4,7 +4,7 @@
 ## Divide this project into 3 parts. Dashboards, Data Analysis, and Data Analytics.
 This Project Uses Advance Microsoft Excel Functions, SQL, Tableau, Google Data Studio, Power BI, and Python
 #### *You can take a look my Linkedin : [hani_aghnia](https://www.linkedin.com/in/haniaghnia/)*
-#### *Website Project: [Project Analyst](https://projecthani.my.canva.site)*
+#### *Website Project: [Project Analyst](https://projecthani.my.canva.site/)*
 
 ## Dashboards
 

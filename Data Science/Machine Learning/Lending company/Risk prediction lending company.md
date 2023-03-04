@@ -1,4 +1,4 @@
-## [Machine learning project : Lending company risk prediction]
+## [Machine learning project : Lending company risk prediction]()
 
 ### Project Background
 * Become an intern Data Scientist at ID/X Partners, involved in a project from a lending company. Collaborated with various other departments on this project to provide technology solutions for the company. The task in this project is to build a model that can predict credit risk using a dataset provided by the company which consists of data on loans received and rejected.
@@ -34,7 +34,7 @@ To start processing data, use python as one of the data analytics tools, to impo
 
 #### Step 4 : Analyze
 Analysis using python see for details. 
-Click here![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/Lending%20company/Credit%20Loans%20.ipynb)
+[Click here](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/Lending%20company/Credit%20Loans%20.ipynb)
 
 #### Step 5 : Share 
 In credit risk modeling using Random Forest Algorithm, the performance metrics AUC (Area Under the Curve) and KS (Kolmogorov-Smirnov) are commonly used to evaluate the accuracy of the model.

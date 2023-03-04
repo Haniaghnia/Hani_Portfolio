@@ -52,7 +52,7 @@ The goal is to answer the right questions that will help the company to make the
  
 Helps a business optimize performance, perform more efficiently, maximize profit, or make more strategically-guided decisions.  Use an algorithm, probability estimation, or statistical model to draw conclusions and make the right decisions.
  
-### [Machine learning project : Customer Lifetime Value Prediction](https://github.com/Haniaghnia/Hani_Portfolio/tree/main/Data%20Science/ML/Credit%20Score%20Card%20Model)
+### [Machine learning project : Customer Lifetime Value Prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/RFM/Customer%20lifetime%20value.md)
 
 Customer lifetime value predicts how much revenue a customer can bring to the business, improve retention, allocate the right resources, and make informed decisions about marketing and sales strategies.
 
@@ -61,7 +61,7 @@ Customer lifetime value predicts how much revenue a customer can bring to the bu
 * Build and run the machine learning model
 * Share the results and insights for the company and recommendations for steps that need to be taken
 
-### [Machine learning project : Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/tree/main/Data%20Science/ML/Credit%20Score%20Card%20Model)
+### [Machine learning project : Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/Lending%20company/Risk%20prediction%20lending%20company.md)
 * Build a model that can predict credit risk to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default
 * Using random forest algorithm for modeling to predict lending company risk prediction. And evaluate Model Performance using AUC and KS.
 * Share the results and insights for the company and recommendations for steps that need to be taken

@@ -30,7 +30,7 @@ Often, companies have data that contain a lot of hidden information.  Using data
 
 The goal is to answer the right questions that will help the company to make the right decisions. Based on this report, clear and well-founded decisions can be made, costs can be saved and processes optimized.
 
-### [Data Engineering: Credit Card Analysis](https://github.com/Haniaghnia/Hani_Portfolio/blob/5a0f5d1022c9f0320a78e8878a997d87def29e93/Power%20BI/DE/Project%20DE.md)
+### [Data Engineering: Credit Card Analysis](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Power%20BI/DE/Project%20DE.md)
 * Analyzing Bank  BTPN credit card customer database, see the risks that will arise, and how preventive actions can be taken. 
 * Using the six steps of the data analysis process: ask, prepare, process, analyze, share, and act, to break down how I analyzed the Credit card Data in order to gain some insights that could be beneficial. 
 * Data exploration performs datamart design with SQL based on the problems identified in the business objective, the final stage is making visualizations using Power BI to understand and explore data to make it more effective.

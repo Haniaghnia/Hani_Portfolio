@@ -1,4 +1,4 @@
-# **Portfolio Project Analyst**
+# **Portfolio Analyst**
 " Data are just summaries but can tell the stories. Is always the best decision if the answer is taken based on data-driven decisions."
 
 ## Divide this project into 3 parts. Dashboards, Data Analysis, and Data Analytics.
@@ -9,6 +9,7 @@ This Project Uses Advance Microsoft Excel Functions, SQL, Tableau, Google Data S
 ## Dashboards
 
 *"Contain the most important KPIs for report automation"*
+
 Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.
 
 ### [Excel: Dashboard Supermarket shop Sales](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Excel/Dashboard%20Supermarket%20shop%20Sales.md)
@@ -24,6 +25,7 @@ Creation and design of dashboards to provide a quick overview of company perform
 ## Data Analysis
 
 *"Based on this report, clear and well-founded decisions can be made, costs can be saved and processes optimized"*
+
 Often, companies have data that contain a lot of hidden information.  Using data analysis increases efficiency and improves performance by discovering patterns in data. 
 
 The goal is to answer the right questions that will help the company to make the right decisions. Based on this report, clear and well-founded decisions can be made, costs can be saved and processes optimized.

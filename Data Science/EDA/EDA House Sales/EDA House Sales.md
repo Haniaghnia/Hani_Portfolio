@@ -1,5 +1,3 @@
-![image](https://github.com/Haniaghnia/Hani_Portfolio/assets/111478034/2e7ed09c-cacf-425b-8062-dba65cc921e1)
-
 # [Explore Data Analysis Car Prices ]()
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/d817d24ae72f1e85c1981b8859cdf0c7bfcb5ca4/Data%20Science/EDA/EDA%20House%20Sales/Bankgroud.png)
 
@@ -73,21 +71,21 @@ Correlation is a measure relationship between two variables and Causation refers
 ### 5.2 ANOVA
 To compare the means of a variable across different levels of a categorical variable using ANOVA, It is used to determine whether there is a statistically significant difference in the mean values of the dependent variable between the different levels of the independent variable.Using two parameters F-test score and P-value
 ###### 5.2.1 Summary 
-Only Drive-wheels have statistically significant difference between the means of the groups 
+Only Drive-wheels have statistically significant differences between the means of the groups 
 
 
 ## 6. Summary and Insights
-The important feature to predicting the car price is 
+The important feature of predicting the car price is 
 Continuous numerical variables:
-Length
-Width
-Curb-weight
-Engine-size
-Horsepower
-City-mpg
-Highway-mpg
-Wheel-base
-Bore
+1. Length
+2. Width
+3. Curb-weight
+4. Engine-size
+5. Horsepower
+6. City-mpg
+7. Highway-mpg
+8. Wheel-base
+9. Bore
 
 And Categorical variables only Drive-wheels
 

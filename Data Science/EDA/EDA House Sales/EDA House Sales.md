@@ -3,7 +3,7 @@
 
 
 # Detail Analysis Using Python
-See Detail [Python](https://github.com/Haniaghnia/Hani_Portfolio/blob/d817d24ae72f1e85c1981b8859cdf0c7bfcb5ca4/Data%20Science/EDA/EDA%20House%20Sales/Exploratory%20Data%20Analysis%20with%20Python.ipynb)
+See Detail [Python](https://colab.research.google.com/drive/1FjS7CjQMuTzwyMoLoMNspsJpcAfVpZm-?usp=drive_link)
 ## 1. Objective
 To explore data sets of car prices and features. The goal of the project is to uncover hidden patterns, identify key trends, and gain insight into the factors that drive car prices.
 

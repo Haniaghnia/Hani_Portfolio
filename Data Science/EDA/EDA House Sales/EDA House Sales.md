@@ -3,7 +3,7 @@
 
 
 # Detail Analysis Using Python
-See Detail [Python](https://colab.research.google.com/drive/1FjS7CjQMuTzwyMoLoMNspsJpcAfVpZm-?usp=drive_link)
+See Detail [Python](https://colab.research.google.com/drive/1FjS7CjQMuTzwyMoLoMNspsJpcAfVpZm-?usp=sharing)
 ## 1. Objective
 To explore data sets of car prices and features. The goal of the project is to uncover hidden patterns, identify key trends, and gain insight into the factors that drive car prices.
 

@@ -53,8 +53,19 @@ The goal of the project is to track the performance of the e-commerce business u
 *"Making predictions to  increase efficiency and improve performance by discovering patterns in data"*
  
 Helps a business optimize performance, perform more efficiently, maximize profit, or make more strategically-guided decisions.  Use an algorithm, probability estimation, or statistical model to draw conclusions and make the right decisions.
- 
-### [Machine learning project: Customer Lifetime Value Prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/RFM/Customer%20lifetime%20value.md)
+
+### [Explore Data Analysis Car Prices](https://github.com/Haniaghnia/Hani_Portfolio/blob/35bedb89878f0ebe5c35b2661bc0649443987e0c/Data%20Science/EDA/EDA%20House%20Sales/EDA%20House%20Sales.md)
+
+The automotive industry is a complex and ever-changing landscape, with many factors influencing the value of a car. From brand reputation and performance specifications to fuel efficiency and safety features, understanding these factors is critical for consumers in making purchasing decisions and for businesses in navigating competitive markets. 
+Through exploratory data analysis, I seek to uncover the intricacies of car pricing, highlighting the relationships between various characteristics and their impact on market value. Step-by-step analysis using Python
+
+* Data Collection and Preparation
+* Univariate analysis is divided into numerical and categorical features
+* Bivariate analysis using Pearson coefficients and regression analysis
+* Descriptive statistical analysis, which is divided into correlation and causation, as well as the ANOVA test.
+* Summary and Insight
+
+ ### [Machine learning project: Customer Lifetime Value Prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/RFM/Customer%20lifetime%20value.md)
 
 Customer lifetime value predicts how much revenue a customer can bring to the business, improve retention, allocate the right resources, and make informed decisions about marketing and sales strategies.
 
@@ -62,6 +73,7 @@ Customer lifetime value predicts how much revenue a customer can bring to the bu
 * Calculate lifetime value (LTV) for training the machine learning model
 * Build and run the machine-learning model
 * Share the results and insights for the company and recommendations for steps that need to be taken
+
 
 ### [Machine learning project: Lending company risk prediction](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Science/Machine%20Learning/Lending%20company/Risk%20prediction%20lending%20company.md)
 * Build a model that can predict credit risk to increase the number of current consumers and reduce or reject potential customers who have a high chance of experiencing a risk of default

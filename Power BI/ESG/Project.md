@@ -8,41 +8,33 @@ This project aims to provide real-time insights into Environmental, Social, and 
 This project focuses on creating a dynamic Power BI dashboard to visualize ESG performance in real-time. The goal is to provide stakeholders with clear, actionable insights into ESG trends and identify areas for improvement. This involves collecting data from various sources, designing interactive visualizations, and collaborating with IT to ensure seamless data integration. 
 
 ### Project Goals
-This project focuses on creating a dynamic Power BI dashboard to visualize ESG performance in real-time. The goal is to provide stakeholders with clear, actionable insights into ESG trends and identify areas for improvement. This involves collecting data from various sources, designing interactive visualizations, and collaborating with IT to ensure seamless data integration. 
+1. **Comprehensive Data Collection**: Implement robust data collection methods to capture both real-time and historical ESG data, covering a wide range of metrics for each entity.
+2. **Data Trend Visualization**: Develop interactive visualizations to clearly illustrate trends in key ESG topics. Identify patterns in environmental, social, and governance factors across industries.
+3. **Actionable Insights**: Provide clear recommendations based on data analysis to drive strategic decision-making and improve ESG performance. 
 
-##### 1.1 Introduction 
-Bank BTPN, one of the banking banks in Indonesia, of its products is a credit card. As a Data Engineering internship, the task is to collect, manage, and convert raw data into information that can be interpreted and can provide insight for the company. In this case study, I will follow the six steps of the data analysis process: ask, prepare, process, analyze, share, and act, to break down how I analyzed the Credit card Data in order to gain some insights that could be beneficial to Bank BTPN
+### My Role & Responsibilities: 
+1. **Data Visualization Design**: Developed interactive dashboards and reports in Power BI to effectively communicate ESG performance and trends. This included designing intuitive charts, graphs, and  to visualize complex data in a user-friendly manner.
+2. **Data Storytelling**: Translated raw data into compelling narratives, highlighting key trends, challenges, and opportunities related to ESG performance.
+3. **Collaboration with IT**: Worked closely with the IT team to establish data connections, develop efficient queries, and ensure data quality and integrity. This involved understanding database structures and working with SQL.
+4. **Recommendation Development**: Based on data insights, formulated actionable recommendations for improving ESG performance and maximizing positive impact. This included identifying best practices and suggesting strategies for addressing identified challenges. 
 
-##### 1.2 Business Task
-Analyzing Bank  BTPN credit card customer database, see the risks that will arise, and how preventive actions can be taken. 
+### Tools & Technologies: 
+1. **Data Visualization**: Power BI
+2. **Data Processing and Database Management** : Dbeaver (SQL)
+3. **Data Sources**: ESG datasets, real-time APIs, company reports 
 
-##### 1.3 Business Objective
-1.	Identify what factors cause customers to be late in paying credit arrears
-2.	Visualization of the condition of customers who have delayed credit payments
-3.	Determine the factors that are the most common cause of customer defaults
+### Project Deliverables: 
+**Interactive Power BI Dashboard**: A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level. (Include screenshots or interactive links if possible) 
 
-##### 1.4 Deliverables
-1.	A clear summary of the business task
-2.	A description of all data sources used
-3.	Documentation of any cleaning or manipulation of data
-4.	A summary of the analysis
-5.	Supporting visualizations and key findings
-6.	High-level content recommendations based on the analysis
+### Project Impact: 
+This ESG data analytics project enables businesses and policymakers to make informed decisions, enhancing their sustainability strategies while meeting regulatory requirements. By leveraging data visualization and analytics, organizations can create a significant impact on environmental, social, and governance initiative 
 
-#### Step 2 : Prepare
-##### 2.1 Dataset Used
-The data is publicly from Bank BTPN and stored in 5 CSV files, Data collected includes (1) Customer data history, (2) Card category, (3) Education, (4) Martial status, and (5) Status customer. With a total of all customers of 10.128
 
-#### Step 3 : Process
-To start processing data, use PostgreSQL as one of the data analytics tools, to import datasets, and carry out cleaning and organizing processes. The cleaning process includes adjusting data type formats and removing duplicate data and nulls. I extracted the clean data to a new CSV and saved it. I document the entire cleaning process.
+### Conclusion: 
+This project demonstrates my ability to leverage data analysis and visualization skills to drive meaningful impact in the field of ESG. I am confident in my ability to collect, analyze, and interpret complex data to provide actionable insights and support strategic decision-making in sustainability and responsible business practices. I am eager to apply my skills to new challenges and contribute to organizations committed to positive change. 
 
-#### Step 4 : Analyze
-After cleaning the data, the dataset will be used to do the analysis process. In this process, I organized and formatted the data, performed some calculations, and identified trends.
-
-#### Step 5 : Share 
+### Power BI Dashboard 
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/dafa719edb6d061a70fde0c5815a0fbd0a1460c5/Power%20BI/DE/DE.PNG)
 
-#### Step 6 : Act 
-1.	One of the factors that determine whether a customer will continue to make a loan or not is monthly income and age.
-2.	With the results of the company's insight, it can carry out auto screening, with conditions when customers who register have an income of less than $40, and at 44-57 years old then, we can enter into a strong potential customer profile failed to pay.
+
 

@@ -1,6 +1,5 @@
 ## [Visualization Project]()
- See Video: [Power BI Dashboard]
- (https://drive.google.com/file/d/1bq7GFdaOno1_EzA8q_1oga1Ewt8w5i-0/view?usp=sharing)
+ See Video: [Power BI Dashboard](https://drive.google.com/file/d/1bq7GFdaOno1_EzA8q_1oga1Ewt8w5i-0/view?usp=sharing)
 
 ### Introduction
 This project aims to provide real-time insights into Environmental, Social, and Governance (ESG) performance through Power BI dashboards and data visualization. By analyzing ESG metrics, companies can track their sustainability initiatives, identify trends, and make data-driven decisions to drive meaningful impact in sustainability and responsible business practices. 

@@ -24,10 +24,10 @@ This project focuses on creating a dynamic Power BI dashboard to visualize ESG p
 ### Tools & Technologies: 
 1. **Data Visualization**: Power BI
 2. **Data Processing and Database Management** : Dbeaver (SQL)
-3. **Data Sources**: ESG datasets, real-time APIs, company reports 
+3. **Data Sources**: ESG datasets, real-time APIs, Company Reports 
 
 ### Project Deliverables: 
-**Interactive Power BI Dashboard**: A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level. (Include screenshots or interactive links if possible) 
+**Interactive Power BI Dashboard**: A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level.
 
 ### Project Impact: 
 This ESG data analytics project enables businesses and policymakers to make informed decisions, enhancing their sustainability strategies while meeting regulatory requirements. By leveraging data visualization and analytics, organizations can create a significant impact on environmental, social, and governance initiative 

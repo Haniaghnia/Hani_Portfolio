@@ -8,14 +8,14 @@ This Project Uses advanced Microsoft Excel Functions, SQL, Tableau, Google Data 
 
 ## Dashboards
 
-*"Creating a dynamic Power BI dashboard to visualize ESG performance in real-time."*
-The goal is to provide stakeholders with clear, actionable insights into ESG trends and identify areas for improvement. This involves collecting data from various sources, designing interactive visualizations, and collaborating with IT to ensure seamless data integration.
-### [Power BI: Interactive Power BI ESG Dashboard](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Power%20BI/ESG/Project.md)
-A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level.
-
 *"Contain the most important KPIs for report automation"*
 
 Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.
+
+### [Power BI: Dynamic Power BI dashboard to visualize ESG performance in real-time](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Power%20BI/ESG/Project.md)
+![](https://github.com/Haniaghnia/Hani_Portfolio/blob/cb8a64569eec66c7682d31546653c294444ee009/Power%20BI/ESG/Power%20BI%20Dashboard_data_enthusiast.png)
+The goal is to provide stakeholders with clear, actionable insights into ESG trends and identify areas for improvement. This involves collecting data from various sources, designing interactive visualizations, and collaborating with IT to ensure seamless data integration. A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level.
+
 ### [Website Performance: Google Merch Shop Website Performance Analysis](https://github.com/Haniaghnia/Hani_Portfolio/blob/181f11d894507671de48774de40f18edc70f821a/Google%20Studio/Website%20Performance/Website%20Performance.md)
 Website performance dashboards provide businesses with the insights they need to improve their website performance and achieve their business goals.  Website performance dashboards are divided by overview, engagement, acquisition, and audience to help businesses solve a variety of problems.
 

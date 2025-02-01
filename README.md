@@ -8,6 +8,11 @@ This Project Uses advanced Microsoft Excel Functions, SQL, Tableau, Google Data 
 
 ## Dashboards
 
+*"Creating a dynamic Power BI dashboard to visualize ESG performance in real-time."*
+The goal is to provide stakeholders with clear, actionable insights into ESG trends and identify areas for improvement. This involves collecting data from various sources, designing interactive visualizations, and collaborating with IT to ensure seamless data integration.
+### [Power BI: Interactive Power BI ESG Dashboard](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Power%20BI/ESG/Project.md)
+A dynamic dashboard showcasing key ESG metrics, trends, and performance indicators. Includes drill-down capabilities to explore data at a granular level.
+
 *"Contain the most important KPIs for report automation"*
 
 Dashboard for managing, sharing, and gauging the KPIs that evaluate progress on any goal, either short or long-term. Present data in a clear way that aids in making decisions.

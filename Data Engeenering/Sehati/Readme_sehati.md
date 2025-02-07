@@ -2,10 +2,10 @@
 
 ### Website View
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/main/Data%20Engeenering/Sehati/Image/Image%20project%20sehati-dev-hubla-dephub.png)
-#### About Project 
+### About Project 
 - Client/Company: Indonesian Ministry of Transportation (MARITIMHUB)  
 - Project Duration: One Year 
-- Objective: To integrate maritime data and visualize key operational metrics.  
+- Objective: To Integrate Maritime Data and Visualize Key Operational Metrics.  
 
 ### Project Overview
 This project aimed to improve the quality and accessibility of data within the MaritimHUB Integrated Data Service Portal. As a key member of the data analyst team, I played a crucial role in developing a robust data infrastructure and providing valuable insights to stakeholders. 

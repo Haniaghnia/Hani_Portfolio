@@ -37,6 +37,9 @@ Often, companies have data that contain a lot of hidden information.  Using data
 
 The goal is to answer the right questions that will help the company to make the right decisions. Based on this report, clear and well-founded decisions can be made, costs can be saved and processes optimized.
 
+### [MARITIMHUB Integrated Data Service Portal: Digital Gateway for Indonesia's Maritime Sector](https://github.com/Haniaghnia/Hani_Portfolio/blob/41486d8c57e000330b0becf64781e43ac2af6041/Data%20Engeenering/Sehati/Readme_sehati.md)
+This project aimed to improve the quality and accessibility of data within the MaritimHUB Integrated Data Service Portal. As a key member of the data analyst team, I played a crucial role in developing a robust data infrastructure and providing valuable insights to stakeholders.
+
 ### [Marketing Funnel: Identifying the Most Effective Marketing Channels and Understanding the Target Audience](https://github.com/Haniaghnia/Hani_Portfolio/blob/181f11d894507671de48774de40f18edc70f821a/Tableau/E-Commerce/Marketing%20funnel/Marketing%20funnel%20E-Commerce.md)
 This project will provide valuable insights into the marketing funnel dataset from sellers who filled in requests of contact to sell their products on the Olist Store. The findings of this project will help Olist Store to identify the most effective marketing channels and to understand its target audience better. This information can be used to improve their marketing campaigns and to better serve their customers.
 

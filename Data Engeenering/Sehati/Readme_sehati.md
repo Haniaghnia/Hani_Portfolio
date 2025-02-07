@@ -30,8 +30,8 @@ This project aimed to improve the quality and accessibility of data within the M
 6. **Collaboration**: Collaborated closely with cross-functional teams, including IT, business analysts, and end-users, to understand their data needs and ensure project success.
 
 ### Key Achievements
-1. Successfully integrated data from 29 applications into a unified data warehouse. And successfully implemented ETL processes that improved data loading speed up to 20% 
-2. Developed and implemented data quality checks that reduced data errors by quantify reduction, up to 15%. 
+1. Successfully integrated data from 29 applications into a unified data warehouse. And successfully implemented ETL processes that improved data loading speed by up to 20% 
+2. Developed and implemented data quality checks that reduced data errors by quantifying reduction, up to 15%. 
 3. Created interactive dashboards that provided real-time insights into key maritime operations, enabling data-driven decision-making and improved operational visibility and efficiency. 
 4. Successfully supported the UAT process, ensuring timely and accurate data availability for testing. 
 5. Contributed to the successful launch and ongoing operation of the MaritimHUB Integrated Data Service Portal. And established data governance practices ensuring high data quality and consistency. 
@@ -43,10 +43,7 @@ This project aimed to improve the quality and accessibility of data within the M
 4. Improved transparency by providing real-time dashboards for monitoring maritime operations and performance metrics. 
 5. Supported the digital transformation of Indonesia’s maritime services, contributing to better governance and resource management.
 
-## [Visualization Project]()
-Show Case: [Power BI Dashboard](https://drive.google.com/file/d/1bq7GFdaOno1_EzA8q_1oga1Ewt8w5i-0/view?usp=sharing)
-
-
+[Project documentation]:(https://github.com/Haniaghnia/Hani_Portfolio/blob/1255800e8c1c0989574f290304ef7930a1e8adaa/Data%20Engeenering/Sehati/Project%20documentation/ETL%20Process%20Development.md)
 
 
  

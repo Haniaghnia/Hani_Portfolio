@@ -3,6 +3,7 @@ Designed and implemented ETL processes using Pentaho to extract, transform, and 
 1. Create a table
 
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/ad96289256da3a292726ae7ccf3761549d2c0c7b/Data%20Engeenering/Sehati/Project%20documentation/1.%20ETL_source_monira_query_table.png)
+
 2. Extract, Transform, and Load Data
 
 ![](https://github.com/Haniaghnia/Hani_Portfolio/blob/ad96289256da3a292726ae7ccf3761549d2c0c7b/Data%20Engeenering/Sehati/Project%20documentation/1.%20ETL_sync_to_source_monira.png) 
